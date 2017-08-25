@@ -1,0 +1,2 @@
+# jsprojects
+Javascript the future
