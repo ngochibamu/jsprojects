@@ -1,2 +1,1 @@
-# jsprojects
-Javascript the future
+Initializing repo
